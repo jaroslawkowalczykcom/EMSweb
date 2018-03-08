@@ -1,5 +1,5 @@
 # EMSweb
-Expend Management System - Webservice v.2.0 (another version of WebLogin App)
+Expends Management System - Webservice v.1.0 (another version of WebLogin App)
 
 Backend:
   - Java 9
